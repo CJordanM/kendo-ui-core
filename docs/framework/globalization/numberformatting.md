@@ -8,7 +8,7 @@ position: 5
 
 # Number Formatting
 
-The purpose of number formatting is to convert a `Number` object to a human readable string using the culture's specific settings. The [`kendo.format`](/api/javascript/kendo#format) and [`kendo.toString`](/api/javascript/kendo#tostring) methods support standard and custom numeric formats.
+The purpose of number formatting is to convert a `Number` object to a human readable string using the culture's specific settings. The [`kendo.format`](/api/javascript/kendo#format) and [`kendo.toString`](/api/javascript/kendo#tostring) methods support standard and custom numeric formats. Also it should be noted that apart from standard and custom numeric formats kendo.format doesn't support any other parameters.
 
 ## Types of Number Formats
 
